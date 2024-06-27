@@ -115,6 +115,9 @@ public class BasicSortingAlgorithm {
 
          //CountingSort(arr);
           
-         printArr(arr);
+         //printArr(arr);
+
+         // Print the sorted array
+         System.out.println(Arrays.toString(arr));
     }
 }
